@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "xprotocol",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 33060,
+            "driver": "MySQL",
+            "name": "gokul local",
+            "database": "gokuldb",
+            "username": "root",
+            "password": "Gokul@1311",
+            "connectionTimeout": 1000000000
+        }
+    ]
+}
